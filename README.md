@@ -1,0 +1,1 @@
+Dự án này nhằm xây dựng một hệ thống quản lý bán hàng toàn diện, giúp các doanh nghiệp vừa và nhỏ tối ưu hóa quá trình bán hàng, quản lý hàng tồn kho và nhân viên. Hệ thống cung cấp các chức năng chính bao gồm đặt hàng, thanh toán, quản lý sản phẩm, hóa đơn, và theo dõi doanh thu.
